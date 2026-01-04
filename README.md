@@ -1,7 +1,7 @@
 # Caderno Temático – Aprendendo programação Python
 
     Este projeto consiste na criação de um caderno temático no NotebookLM, utilizando fontes sobre python
-    para aprende a linguagem, desde o módulo iniciante até a criação de relatórios. 
+    para aprendet a linguagem, desde o módulo iniciante até a criação de relatórios. 
 
 
 ## 🔗 Acesse o caderno no NotebookLM: 
